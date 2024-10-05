@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Const
-- 👀 I love Java and backend-development
+- 👋 Hi, I’m Const. 
+- 👀 I'm a Software Developer intern in Java backend-development
 - 🌱 I’m currently learning Spring Framework / Jakarta EE
 - 💞️ I also really like Swift. (+ Rust, Go and Python)
-- 🎓 I'm a BYUI Pathways student at Comuter Science classes    
+- 🎓 I'm currently studying at BYUI Pathways University for Comuter Science    
 - 📫 How to reach me: 📨 shimanoffsky@gmail.com or 📲 https://t.me/ManOffSky
 
 <!---
