@@ -1,4 +1,4 @@
-- 👋 Const Shimanoffsky. 
+- 👋 Const Shimanoffsky
 - 👀 a Java intern backend-developer
 - 🌱 focusing on Spring Framework
 - 🎓 BYUI Pathways University for Software Engineering    
