@@ -1,7 +1,7 @@
 - 👋 Const Shimanoffsky
 - 👀 a Java backend-developer
 - 🌱 focusing on Spring Framework
-- 🎓 BYUI University Pathways for Software Engineering    
+- 🎓 BYUI University Software Engineering    
 - 📫 How to reach me: 📨 shimanoffsky@gmail.com or 📲 https://t.me/ManOffSky
 
 <!---
